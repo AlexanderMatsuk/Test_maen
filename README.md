@@ -1,2 +1,2 @@
-# Test_maen
-repository for studing only
+# Simple project Git + maven + junit
+
